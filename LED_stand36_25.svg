@@ -65,7 +65,7 @@
        id="rect1"
        width="2.0916524"
        height="14.991652"
-       x="14.870269"
+       x="15.249515"
        y="10.870443"
        rx="0"
        ry="0" />
@@ -99,5 +99,26 @@
        y="10.921786"
        rx="0"
        ry="0" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="4"
+       height="4"
+       x="0.13535175"
+       y="16.720612" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-8"
+       width="4"
+       height="4"
+       x="37.395256"
+       y="16.720612" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-5"
+       width="4"
+       height="4"
+       x="74.653969"
+       y="16.720612" />
   </g>
 </svg>
