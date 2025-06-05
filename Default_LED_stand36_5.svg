@@ -100,25 +100,25 @@
        rx="0"
        ry="0" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke-width:0.01;stroke:#ff0000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00866363;stroke-dasharray:none;stroke-opacity:1"
        id="rect2"
-       width="4"
-       height="4"
-       x="0.36872995"
-       y="16.40815" />
+       width="3.0013363"
+       height="4.0013366"
+       x="0.36806175"
+       y="16.407482" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke-width:0.01;stroke:#ff0000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00866363;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-8"
-       width="4"
-       height="4"
-       x="37.628647"
-       y="16.40815" />
+       width="3.0013363"
+       height="4.0013366"
+       x="37.627979"
+       y="16.407482" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke-width:0.01;stroke:#ff0000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00866363;stroke-dasharray:none;stroke-opacity:1"
        id="rect2-5"
-       width="4"
-       height="4"
-       x="74.887131"
-       y="16.40815" />
+       width="3.0013363"
+       height="4.0013366"
+       x="74.886459"
+       y="16.407482" />
   </g>
 </svg>
